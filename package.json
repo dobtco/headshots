@@ -1,0 +1,23 @@
+{
+  "name": "headshots",
+  "version": "0.0.0",
+  "description": "glamour.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dobtco/headshots.git"
+  },
+  "author": "ajb <adam@dobt.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dobtco/headshots/issues"
+  },
+  "homepage": "https://github.com/dobtco/headshots",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-aws": "^0.3.0"
+  }
+}

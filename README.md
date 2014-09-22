@@ -13,4 +13,6 @@ Drag onto the Automator workflow included, then run through ImageOptim again. (O
 
 ## Uploading to S3
 
-@todo: make this easier. For now, the files live in the `dobt-misc` bucket, in the `headshots` directory.
+1. `cp credentials.json.example credentials.json` and set AWS key & secret
+2. `npm install`
+3. `grunt s3`

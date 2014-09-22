@@ -11,7 +11,7 @@ module.exports = function(grunt) {
         bucket: "dobt-misc"
       },
       build: {
-        cwd: "img/",
+        cwd: "headshots/",
         src: "**",
         dest: "headshots/",
         options: {

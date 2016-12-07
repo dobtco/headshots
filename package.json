@@ -18,6 +18,8 @@
   "homepage": "https://github.com/dobtco/headshots",
   "dependencies": {
     "grunt": "^0.4.5",
-    "grunt-aws": "^0.3.0"
+    "grunt-aws": "^0.3.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-webp": "0.0.4"
   }
 }
